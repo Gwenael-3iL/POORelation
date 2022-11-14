@@ -1,4 +1,4 @@
-package voiture;
+/*package voiture;
 public class Camion extends Voiture {
   private int poids;
   private final double REDUC_BASE = 0.02;
@@ -15,4 +15,4 @@ public class Camion extends Voiture {
     double prixVente = ((poids > 2000) ? 0.9 : 0.8) * prixBase;
     return prixVente;
   }
-}
+}*/

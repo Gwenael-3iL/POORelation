@@ -1,4 +1,4 @@
-package voiture;
+/*package voiture;
 public class Voiture {
   private int vitesseMax;
   private double prixBase;
@@ -13,4 +13,4 @@ public class Voiture {
   private double calculerPrixDeVente() {
     return this.prixBase;
   }
-}
+}*/

@@ -1,3 +1,4 @@
+package personne;
 public class Personne {
   private String prenom;
 

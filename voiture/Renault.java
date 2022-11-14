@@ -1,4 +1,4 @@
-package voiture;
+/*package voiture;
 public class Renault extends Voiture {
   private int anneeFabric;
   private int reducContructeur;
@@ -15,4 +15,4 @@ public class Renault extends Voiture {
     double prixVente = prixBase - reducConstructeur;
     return prixVente;
   }
-}
+}*/
