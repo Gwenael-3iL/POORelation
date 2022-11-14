@@ -1,6 +1,10 @@
 import java.text.DecimalFormat;
 class Main {
   public static void main(String[] args) {
+    
+
+    
+    /*
     DecimalFormat df = new DecimalFormat(".##");
     Forme[] figures = new Forme[3];
     figures[0] = new Carre(2); // Création d'un carré de 2 cm de coté
@@ -11,7 +15,7 @@ class Main {
       System.out.println(figures[i] + " : surface = "
       + df.format(figures[i].getSurface()) + " cm²");
     }
-
+  */
 
     
     /*
